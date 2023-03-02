@@ -15,6 +15,8 @@ function password_show_hide() {
   }
 }
 const baseURL = "https://snapify.onrender.com/";
+// const baseURL = "http://localhost:5000/";
+
 // Sign Up Method
 const signUp = () => {
   const userName = document.getElementById("userName").value;

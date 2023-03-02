@@ -1,5 +1,7 @@
 let allposts = [];
 const baseURL = "https://snapify.onrender.com/";
+// const baseURL = "http://localhost:5000/";
+
 const headers = {
   "Content-Type": "application/json; charset=UTF-8",
   authorization: `Bearer ${localStorage.getItem("token")}`,

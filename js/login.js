@@ -15,6 +15,8 @@ function password_show_hide() {
   }
 }
 const baseURL = "https://snapify.onrender.com/";
+// const baseURL = "http://localhost:5000/";
+
 // Log In Method
 const logIn = () => {
   const userEmail = document.getElementById("userEmail").value;
