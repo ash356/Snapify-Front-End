@@ -1,0 +1,32 @@
+
+.w-\[50px\] {
+  width: 50px
+}
+.items-start {
+  align-items: flex-start
+}
+
+
+.overflow-hidden {
+  overflow: hidden
+}
+
+
+.bg-blue-600\/\[\.10\] {
+  background-color: rgb(242 0 255 / 10%)
+}
+
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem
+}
+
+.hover\:bg-blue-600\/\[\.20\]:hover {
+  background-color: rgb(213 58 255 / 20%)
+}
+
+.hover\:underline:hover {
+  text-decoration-line: underline
+}
+
+

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>Signup</title>
+  <!-- jQuery -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./css/signup.css" />
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+  <!-- MDB -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.1.0/mdb.min.css" rel="stylesheet" />
+  <!-- Toastr -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+</head>
+
+<body class="body">
+  <section class="vh-100 bg-image" style="
+        background-image: url('./assets/images/background.png');
+      ">
+    <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+      <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+          <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+            <div class="card" style="border-radius: 15px; background-color: #343a40;">
+              <div class="card-body p-5">
+                <div class="form-icon">
+                  <span><i class="fas fa-user"></i></span>
+                </div>
+                <form>
+                  <div class="form-outline mb-4">
+                    <input type="text" id="userName" class="form-control form-control-lg text-white" required />
+                    <label class="form-label text-success" for="">Name</label>
+                    <!-- <div class="invalid-feedback">Please Enter Your Name</div> -->
+                  </div>
+
+                  <div class="form-outline mb-4">
+                    <input type="email" id="userEmail" class="form-control form-control-lg text-white" required />
+                    <label class="form-label text-success" for="userEmail">Email</label>
+                    <!-- <div class="invalid-feedback">
+                        Please Enter a Valid Email
+                      </div> -->
+                  </div>
+
+                  <div class="form-outline mb-4 d-flex">
+                    <input type="password" id="userPassword" class="form-control form-control-lg text-white" required />
+                    <label class="form-label text-success" for="userPassword">Password</label>
+                    <div class="input-group-append">
+                      <span class="input-group-text text-white" onclick="password_show_hide();">
+                        <i class="fas fa-eye" id="show_eye"></i>
+                        <i class="fas fa-eye-slash d-none" id="hide_eye"></i>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="form-outline mb-4">
+                    <input type="password" id="confirmPassword" class="form-control form-control-lg text-white"
+                      required />
+                    <label class="form-label text-success" for="confirmPassword">Confirm Password</label>
+                  </div>
+
+                  <div class="d-flex justify-content-center">
+                    <button type="button" class="btn btn-success btn-block btn-lg gradient-custom-4" onclick="signUp()">
+                      Sign Up
+                    </button>
+                  </div>
+
+                  <p class="text-center text-muted mt-4 mb-0">
+                    Already Have An Account?
+                  </p>
+                  <p class="text-center text-muted mt-1 mb-0">
+                    <a href="login.html" class="fw-bold text-primary">Login</a>
+                  </p>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- <div>
+      <button id="success">Success</button>
+      <button id="info">Info</button>
+      <button id="error">Error</button>
+      <button id="warning">Warning</button>
+    </div> -->
+  <!-- MDB -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.1.0/mdb.min.js"></script>
+  <script src="./js/signup.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js">
+  </script>
+</body>
+
+</html>

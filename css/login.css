@@ -1,0 +1,12 @@
+.card-body .form-icon {
+    text-align: center;
+    background-color: #3b71ca;
+    border-radius: 50%;
+    font-size: 40px;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 25px;
+    line-height: 100px;
+}
