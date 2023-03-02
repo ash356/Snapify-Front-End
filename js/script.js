@@ -43,7 +43,7 @@ const setAllPosts = (list) => {
                           decoding="async" data-nimg="1" class="object-cover w-full h-full" loading="lazy"
                           style="color: transparent;">
                   </div>
-                  <div><a class="font-bold text-white" href="">ِ${list[i].userId.userName}</a>
+                  <div><a class="font-bold text-white" href="">${list[i].userId.userName}</a>
                       <p class="text-sm text-gray-400">${list[i].createdAt}</p>
                   </div>
               </div>
