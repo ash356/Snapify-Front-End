@@ -18,13 +18,13 @@ DataBase : { MongoDB }
 <br/>
 <br/>
 
-<h1 align="center"> 
+<h3 align="center"> 
  Demo ==>> https://ash356.github.io/Snapify-Front-End/
 <br/>
 <br/>
 
 Server ==>> https://snapify.onrender.com/
-</h1>
+</h3>
 <br/>
 <br/>
 
