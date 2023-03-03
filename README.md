@@ -27,7 +27,15 @@ Server ==>> https://snapify.onrender.com/
 </h3>
 <br/>
 <br/>
-
+<h1 align="center"> 
+  Index 
+</h1>
+<br/>
+<br/>
+<h5 align="center"> 
+  
+  ![image](https://raw.githubusercontent.com/ash356/Project-Materials/main/images/Index.PNG?token=GHSAT0AAAAAAB5ZPZPR4AUZS4FHL7LTOUECZABJYJA)
+</h5>
 
 
 
