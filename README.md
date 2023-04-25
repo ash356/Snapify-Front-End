@@ -26,11 +26,9 @@ DataBase : { MongoDB }
 Server ==>> https://snapify.onrender.com/
 </h3>
 <br/>
-<br/>
 <h1 align="center"> 
   Signup 
 </h1>
-<br/>
 <h5 align="center"> 
 
   ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Signup.PNG)
