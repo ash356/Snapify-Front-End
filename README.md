@@ -34,7 +34,21 @@ Server ==>> https://snapify.onrender.com/
 <br/>
 <h5 align="center"> 
   
-  ![image](https://raw.githubusercontent.com/ash356/Project-Materials/main/images/Index.PNG?token=GHSAT0AAAAAAB5ZPZPR4AUZS4FHL7LTOUECZABJYJA)
+  ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Signup.PNG)
+  <br/>
+  <br/>
+  ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Login.PNG)
+  <br/>
+  <br/>
+  ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Home.PNG)
+  <br/>
+  <br/>
+  ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Profile.PNG)
+  <br/>
+  <br/>
+  ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Delete%20Pfofile.PNG)
+  <br/>
+  <br/>
 </h5>
 
 
