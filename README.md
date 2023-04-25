@@ -28,27 +28,45 @@ Server ==>> https://snapify.onrender.com/
 <br/>
 <br/>
 <h1 align="center"> 
-  Index 
+  Signup 
 </h1>
 <br/>
-<br/>
 <h5 align="center"> 
-  
+
   ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Signup.PNG)
-  <br/>
-  <br/>
+
+</h5>
+<h1 align="center"> 
+  Login 
+</h1>
+<h5 align="center"> 
+
   ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Login.PNG)
-  <br/>
-  <br/>
+  
+</h5>
+<h1 align="center"> 
+  Home 
+</h1>
+<h5 align="center"> 
+
   ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Home.PNG)
-  <br/>
-  <br/>
+  
+</h5>
+<h1 align="center"> 
+  Profile 
+</h1>
+<h5 align="center"> 
+
   ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Profile.PNG)
-  <br/>
-  <br/>
+
+</h5>
+<h1 align="center"> 
+  Delete Account
+</h1>
+<h5 align="center"> 
+
   ![image](https://raw.githubusercontent.com/ash356/Snapify-Front-End/main/images/Delete%20Pfofile.PNG)
-  <br/>
-  <br/>
+  
 </h5>
 
 
